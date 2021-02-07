@@ -1,3 +1,4 @@
+```
                GLWT(Good Luck With That) Public License
                  Copyright (c) Everyone, except Author
 
@@ -23,3 +24,4 @@ FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
 DEALINGS IN THE SOFTWARE.
 
 Good luck and Godspeed.
+```
